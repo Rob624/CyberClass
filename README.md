@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-13-Elk-Stack-Project_Resources_README/README/Images/Azure Virtual Network Project.png
+13-Elk-Stack-Project_Resources_README/README/CyberClass/Diagrams/Azure Virtual Network Project.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  -13-Elk-Stack-Project_Resources_README/README/Resources/filebeat-playbook.yml
+  -13-Elk-Stack-Project_Resources_README/README/CyberClass/Scripts/Ansible/Filebeat/filebeat-playbook.yml
 
 This document contains the following details:
 - Description of the Topologu
@@ -72,7 +72,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-13-Elk-Stack-Project_Resources_README/README/Images/docker_ps_output.png
+13-Elk-Stack-Project_Resources_README/README/CyberClass/Images/docker_ps_output.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
